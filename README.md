@@ -24,12 +24,14 @@ This is a personal blogging website where an admin can create and share their op
     $ cd Blogs
 
 ### Running
+
  * In your terminal<br>
 
      $ chmod +x start.sh <br>
      $ ./start.sh
 
 ### Test
+
 * To run tests
 * In your terminal<br>
   $ python3.6 test_blog.py<br>
