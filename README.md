@@ -4,7 +4,9 @@
 
 ### By **Mfuranzima sandrine**
 ##  Description
+
 This is a personal blogging website where an admin can create and share their opinions by blogging and have random quotes displayed for users to inspire them.
+
 ## Setup/Installations
 
 ### Prerequisites
