@@ -9,6 +9,7 @@ from ..email import mail_message
 
 # Views
 
+
 @main.route('/', methods = ['GET', 'POST'])
 def index():
  '''
