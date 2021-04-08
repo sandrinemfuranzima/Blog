@@ -1,7 +1,7 @@
 # PERSONAL BLOG POST
-#### This is a Personal Blog post web application, 5th March 2019
+#### This is a Personal Blog post web application
 
-### By **KARENZI ANGELA**
+### By **Mfuranzima sandrine**
 ##  Description
 This is a personal blogging website where an admin can create and share their opinions by blogging and have random quotes displayed for users to inspire them.
 ## Setup/Installations
