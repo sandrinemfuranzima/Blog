@@ -29,7 +29,6 @@ def index():
  quote=get_quote()
  blogs=Blog.get_blogs()
  title= "WELCOME"
-
  return render_template('index.html',title=title,quote=quote,blogs=blogs ,subscription_form=form)
 
 @main.route('/blog/new/', methods = ['GET','POST'])
