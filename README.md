@@ -59,10 +59,10 @@ There are no known bugs yet.
 ## Support and contact details
 
 Having any issues?
-Email:angelakarenzi5@gmail.com
-slack: Angelakarenzi5
+Email:mfuranzimasandri20gmail.com
+
 
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2019 **ANGELA UWASE KARENZI**
+Copyright (c) 2021 **Sandrine**
