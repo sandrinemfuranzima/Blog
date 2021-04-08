@@ -16,6 +16,7 @@ This is a personal blogging website where an admin can create and share their op
 * flask
 
 ### Cloning
+
 * In your terminal <br>
 
     $ source < name of virtual environment>/bin/activate<br>
