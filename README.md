@@ -22,8 +22,8 @@ This is a personal blogging website where an admin can create and share their op
 ### Running
  * In your terminal<br>
 
-     $ chmod +x run.py<br>
-     $ ./run.py
+     $ chmod +x start.sh <br>
+     $ ./start.sh
 
 ### Test
 * To run tests
