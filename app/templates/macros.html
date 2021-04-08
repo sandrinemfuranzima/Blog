@@ -1,0 +1,35 @@
+{% macro displayBlogs(blogs) %}
+
+{% for blog in blogs %}
+<body>
+<div class="container">
+
+   <h3 class='title'>{{blog.title}}</h3>
+   <p>{{blog.description}}</p>
+   <p class="name">Author:Angela Uwase Karenzi</p>
+  <img src="{{blog.image}}" alt="">
+
+ <a href="/comment/new/{{blog.id}}"><button>Comments</button></a>
+ <a href="/delete/blog/{{blog.id}}" class="btn btn-primary">Delete blog</a>
+ <a href="/edit/blog/{{blog.id}}" class="btn btn-primary">Edit blog</a>
+</div>
+
+
+ {%endfor%}
+ {%endmacro%}
+
+ {% macro displayComments(comments) %}
+
+ {% for comment in comments %}
+
+   <div class="container">
+   <h3 class="name">{{comment.username}}</h3>
+
+     <p>{{comment.content}}</p>
+     <a href="/delete/comment/{{comment.id}}" class="=btn btn-primary">Delete Comment</a>
+     </div>
+</body>
+
+
+ {%endfor%}
+ {%endmacro%}
