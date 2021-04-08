@@ -16,7 +16,7 @@ This is a personal blogging website where an admin can create and share their op
 * In your terminal <br>
 
     $ source < name of virtual environment>/bin/activate<br>
-    $ git clone https://github.com/angelakarenzi5/Blogs.git<br>
+    $ git clone https://github.com/sandrinemfuranzima/Blog<br>
     $ cd Blogs
 
 ### Running
